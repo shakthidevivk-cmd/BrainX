@@ -1,0 +1,8 @@
+{
+  "name": "BrainX Cyber Prioritization",
+  "description": "An intelligent platform that ranks security incidents to streamline triage and accelerate effective threat response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
